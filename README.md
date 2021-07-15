@@ -1,4 +1,8 @@
-### Hi there 👋
+### 個人でツールを作成しています😄
+基本的にC#で何か作っています。<br>
+各ツールの不具合などはIssuesで報告してもらえると助かります。<br>
+一応、HTML,CSS,javascriptあたりも出来ますが恐らく使わないと思います。<br>
+出来れば、数人でツールを作成してみたいですがC#出来る人が居ない・・・🤔
 
 <!--
 **penguin117117/penguin117117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
