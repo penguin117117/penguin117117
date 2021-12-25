@@ -3,6 +3,10 @@
 各ツールの不具合などはIssuesで報告してもらえると助かります。<br>
 一応、HTML,CSS,javascriptあたりも出来ますが恐らく使わないと思います。<br>
 出来れば、数人でツールを作成してみたいですがC#出来る人が居ない・・・🤔
+私がこれまで個人で制作していたソフトウェアは、ソフトを制作するための練習で作成をしていました。
+そのため、コードを分かりやすくキレイに書けていません。
+さらに、高凝集で非常に修正が難しい物が多いです。
+時間が取れ次第修正をするか、作り直します。
 
 <!--
 **penguin117117/penguin117117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
